@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.89",
+          "date": "2026-09-21T19:04:01.380068+00:00",
+          "localizedDescription": "iMessage-style chat screen: centered avatar header, time separators, swipe for times, iMessage composer.",
+          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/mobile-v0.1.89/Unified-0.1.89-ios-unsigned.ipa",
+          "size": 16542290,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.87",
           "date": "2026-09-17T14:15:15.549544+00:00",
           "localizedDescription": "iMessage-style chat: bubble tails, Delivered/Read receipts, send-mic swap, and bold text.",
