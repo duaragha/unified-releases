@@ -2,8 +2,8 @@
   "name": "Unified",
   "subtitle": "Private messaging across every network.",
   "description": "Install and update the Unified iOS app directly through SideStore.",
-  "iconURL": "https://raw.githubusercontent.com/duaragha/unified-inbox-releases/main/unified-icon.png",
-  "website": "https://github.com/duaragha/unified-inbox-releases",
+  "iconURL": "https://raw.githubusercontent.com/duaragha/unified-releases/main/unified-icon.png",
+  "website": "https://github.com/duaragha/unified-releases",
   "tintColor": "#55D6C2",
   "nsfw": false,
   "featuredApps": [
@@ -16,7 +16,7 @@
       "developerName": "Raghav Dua",
       "subtitle": "All your private chats in one inbox.",
       "localizedDescription": "Unified brings your private messaging networks together through your own private Hub.",
-      "iconURL": "https://raw.githubusercontent.com/duaragha/unified-inbox-releases/main/unified-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/unified-releases/main/unified-icon.png",
       "tintColor": "#55D6C2",
       "category": "social",
       "screenshots": [],
@@ -25,7 +25,7 @@
           "version": "0.1.89",
           "date": "2026-09-21T19:04:01.380068+00:00",
           "localizedDescription": "iMessage-style chat screen: centered avatar header, time separators, swipe for times, iMessage composer.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/mobile-v0.1.89/Unified-0.1.89-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.89/Unified-0.1.89-ios-unsigned.ipa",
           "size": 16542290,
           "minOSVersion": "16.4"
         },
@@ -33,7 +33,7 @@
           "version": "0.1.87",
           "date": "2026-09-17T14:15:15.549544+00:00",
           "localizedDescription": "iMessage-style chat: bubble tails, Delivered/Read receipts, send-mic swap, and bold text.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.104/Unified-0.1.0-alpha.104-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.104/Unified-0.1.0-alpha.104-ios-unsigned.ipa",
           "size": 16539601,
           "minOSVersion": "16.4"
         },
@@ -41,7 +41,7 @@
           "version": "0.1.86",
           "date": "2026-09-16T19:52:26.916386+00:00",
           "localizedDescription": "iMessage-style chat: blue outgoing bubbles, grey incoming bubbles, grouped corners, and a matching blue send button.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.103/Unified-0.1.0-alpha.103-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.103/Unified-0.1.0-alpha.103-ios-unsigned.ipa",
           "size": 16535079,
           "minOSVersion": "16.4"
         },
@@ -49,7 +49,7 @@
           "version": "0.1.85",
           "date": "2026-09-16T14:10:00.633133+00:00",
           "localizedDescription": "Liquid Glass across the inbox: glass bottom sheets, emoji picker, date dividers, reply and undo banners, and buttons.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.102/Unified-0.1.0-alpha.102-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.102/Unified-0.1.0-alpha.102-ios-unsigned.ipa",
           "size": 16535462,
           "minOSVersion": "16.4"
         },
@@ -57,7 +57,7 @@
           "version": "0.1.83",
           "date": "2026-09-16T14:08:04.721224+00:00",
           "localizedDescription": "Photo badges match the link accent, and thread rows on mobile now show photo and video badges.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.100/Unified-0.1.0-alpha.100-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.100/Unified-0.1.0-alpha.100-ios-unsigned.ipa",
           "size": 16535025,
           "minOSVersion": "16.4"
         },
@@ -65,7 +65,7 @@
           "version": "0.1.82",
           "date": "2026-09-16T05:40:36.191690+00:00",
           "localizedDescription": "Lock the lists while swiping and restyle archive and reply as Beeper-style icon actions.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.99/Unified-0.1.0-alpha.99-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.99/Unified-0.1.0-alpha.99-ios-unsigned.ipa",
           "size": 16533954,
           "minOSVersion": "16.4"
         },
@@ -73,7 +73,7 @@
           "version": "0.1.76",
           "date": "2026-09-15T20:39:03.864000+00:00",
           "localizedDescription": "Match the desktop design language on mobile with native Liquid Glass icons, glass bars, and desktop iconography.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.93/Unified-0.1.0-alpha.93-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.93/Unified-0.1.0-alpha.93-ios-unsigned.ipa",
           "size": 16537163,
           "minOSVersion": "16.4"
         },
@@ -81,7 +81,7 @@
           "version": "0.1.75",
           "date": "2026-09-15T18:01:55.237510+00:00",
           "localizedDescription": "Restore chat history when startup omits attachment previews, preserving pairing and cached messages.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.92/Unified-0.1.0-alpha.92-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.92/Unified-0.1.0-alpha.92-ios-unsigned.ipa",
           "size": 16439776,
           "minOSVersion": "16.4"
         },
@@ -89,7 +89,7 @@
           "version": "0.1.73",
           "date": "2026-09-15T16:55:33.027341+00:00",
           "localizedDescription": "Automatically recover incompatible saved sync state after an app update or relaunch while preserving pairing and pending messages.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.90/Unified-0.1.0-alpha.90-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.90/Unified-0.1.0-alpha.90-ios-unsigned.ipa",
           "size": 16437906,
           "minOSVersion": "16.4"
         },
@@ -97,7 +97,7 @@
           "version": "0.1.71",
           "date": "2026-09-14T16:02:54.177339+00:00",
           "localizedDescription": "Coordinated alpha.88 release with secure Instagram desktop sign-in and reconnection support.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.88/Unified-0.1.0-alpha.88-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.88/Unified-0.1.0-alpha.88-ios-unsigned.ipa",
           "size": 16437422,
           "minOSVersion": "16.4"
         },
@@ -105,7 +105,7 @@
           "version": "0.1.70",
           "date": "2026-09-14T14:35:31.678495+00:00",
           "localizedDescription": "Coordinated alpha.87 release with secure Instagram desktop sign-in and reconnection support.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.87/Unified-0.1.0-alpha.87-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.87/Unified-0.1.0-alpha.87-ios-unsigned.ipa",
           "size": 16437424,
           "minOSVersion": "16.4"
         },
@@ -113,7 +113,7 @@
           "version": "0.1.69",
           "date": "2026-09-13T03:41:55.141740+00:00",
           "localizedDescription": "Faster inbox startup: overlap saved-session reads, preserve validated recovery, and avoid redundant cache work before live sync.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.86/Unified-0.1.0-alpha.86-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.86/Unified-0.1.0-alpha.86-ios-unsigned.ipa",
           "size": 16437425,
           "minOSVersion": "16.4"
         },
@@ -121,7 +121,7 @@
           "version": "0.1.68",
           "date": "2026-09-13T01:47:58.028262+00:00",
           "localizedDescription": "Fix inbox sync getting stuck on merged-chat route updates and recover safely from affected saved sync positions.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.85/Unified-0.1.0-alpha.85-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.85/Unified-0.1.0-alpha.85-ios-unsigned.ipa",
           "size": 16434981,
           "minOSVersion": "16.4"
         },
@@ -129,7 +129,7 @@
           "version": "0.1.67",
           "date": "2026-09-13T01:19:28.937245+00:00",
           "localizedDescription": "Recover mobile inbox sync after app suspension and cancel stalled requests when reopening.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.84/Unified-0.1.0-alpha.84-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.84/Unified-0.1.0-alpha.84-ios-unsigned.ipa",
           "size": 16434617,
           "minOSVersion": "16.4"
         },
@@ -137,7 +137,7 @@
           "version": "0.1.66",
           "date": "2026-09-10T02:28:59.033595+00:00",
           "localizedDescription": "Relaunching is quick again: the saved inbox no longer revalidates the whole message history on the phone's UI thread before the app becomes usable.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.79/Unified-0.1.0-alpha.79-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.79/Unified-0.1.0-alpha.79-ios-unsigned.ipa",
           "size": 16429978,
           "minOSVersion": "16.4"
         },
@@ -145,7 +145,7 @@
           "version": "0.1.64",
           "date": "2026-09-09T19:31:00.788765+00:00",
           "localizedDescription": "Background calling TEST: audio standby keeps incoming WhatsApp calls eligible while Unified remains running. Locked-screen acceptance is pending. Reopen Unified after calls or interruptions in this trial.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/ios-call-trial-0.1.64/Unified-0.1.64-call-trial-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/ios-call-trial-0.1.64/Unified-0.1.64-call-trial-ios-unsigned.ipa",
           "size": 16430937,
           "minOSVersion": "16.4"
         },
@@ -153,7 +153,7 @@
           "version": "0.1.63",
           "date": "2026-09-09T18:56:10.296810+00:00",
           "localizedDescription": "Start reels progressively and recover failed Instagram video previews automatically.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.77/Unified-0.1.0-alpha.77-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.77/Unified-0.1.0-alpha.77-ios-unsigned.ipa",
           "size": 16428845,
           "minOSVersion": "16.4"
         },
@@ -161,7 +161,7 @@
           "version": "0.1.62",
           "date": "2026-09-09T18:34:34.835548+00:00",
           "localizedDescription": "Rebuilt so the app launches again: the previous build shipped without the React frameworks it loads at startup.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.76/Unified-0.1.0-alpha.76-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.76/Unified-0.1.0-alpha.76-ios-unsigned.ipa",
           "size": 16428842,
           "minOSVersion": "16.4"
         },
@@ -169,7 +169,7 @@
           "version": "0.1.61",
           "date": "2026-09-09T16:57:41.362819+00:00",
           "localizedDescription": "Rebuilt to restore frameworks missing from the previous build, which stopped the app launching.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.75/Unified-0.1.0-alpha.75-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.75/Unified-0.1.0-alpha.75-ios-unsigned.ipa",
           "size": 16428842,
           "minOSVersion": "16.4"
         },
@@ -177,7 +177,7 @@
           "version": "0.1.60",
           "date": "2026-09-09T16:28:01.416198+00:00",
           "localizedDescription": "The inbox no longer claims the Hub is offline when a weak signal drops a poll; connection state is now judged on how long it has really been failing.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.74/Unified-0.1.0-alpha.74-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.74/Unified-0.1.0-alpha.74-ios-unsigned.ipa",
           "size": 16428842,
           "minOSVersion": "16.4"
         },
@@ -185,7 +185,7 @@
           "version": "0.1.59",
           "date": "2026-09-09T14:55:43.346473+00:00",
           "localizedDescription": "Mobile call buttons now use the same outlined handset icons as desktop.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.71/Unified-0.1.0-alpha.71-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.71/Unified-0.1.0-alpha.71-ios-unsigned.ipa",
           "size": 16428482,
           "minOSVersion": "16.4"
         },
@@ -193,7 +193,7 @@
           "version": "0.1.58",
           "date": "2026-09-09T08:57:23.298407+00:00",
           "localizedDescription": "Call from the chat header. Full-screen incoming calls with answer, decline, mute and speaker controls. Removes the separate dialer.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.70/Unified-0.1.0-alpha.70-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.70/Unified-0.1.0-alpha.70-ios-unsigned.ipa",
           "size": 16427668,
           "minOSVersion": "16.4"
         },
@@ -201,7 +201,7 @@
           "version": "0.1.57",
           "date": "2026-09-09T08:05:58.261951+00:00",
           "localizedDescription": "Make WhatsApp voice calls from Unified using your existing connection. Includes mute, speaker and cancel controls.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.69/Unified-0.1.0-alpha.69-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.69/Unified-0.1.0-alpha.69-ios-unsigned.ipa",
           "size": 16426236,
           "minOSVersion": "16.4"
         },
@@ -209,7 +209,7 @@
           "version": "0.1.56",
           "date": "2026-09-09T03:41:09.195744+00:00",
           "localizedDescription": "WhatsApp messages and incoming calls now share your existing connection. No separate calling QR or second link.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.68/Unified-0.1.0-alpha.68-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.68/Unified-0.1.0-alpha.68-ios-unsigned.ipa",
           "size": 16424191,
           "minOSVersion": "16.4"
         },
@@ -217,7 +217,7 @@
           "version": "0.1.55",
           "date": "2026-09-08T23:42:17.128419+00:00",
           "localizedDescription": "Adds incoming WhatsApp voice calls while Unified is open. Link calling separately using WhatsApp Linked Devices. Includes answer, decline, mute, and speaker controls.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.67/Unified-0.1.0-alpha.67-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.67/Unified-0.1.0-alpha.67-ios-unsigned.ipa",
           "size": 16436756,
           "minOSVersion": "16.4"
         },
@@ -225,7 +225,7 @@
           "version": "0.1.54",
           "date": "2026-09-08T20:36:09.691234+00:00",
           "localizedDescription": "Resume the saved inbox immediately on launch, catch up missed changes on foreground, and eliminate empty-poll redraws.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.66/Unified-0.1.0-alpha.66-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.66/Unified-0.1.0-alpha.66-ios-unsigned.ipa",
           "size": 11367789,
           "minOSVersion": "16.4"
         },
@@ -233,7 +233,7 @@
           "version": "0.1.50",
           "date": "2026-09-08T15:17:34.623312+00:00",
           "localizedDescription": "Companion mobile build for the desktop theme persistence update.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.60/Unified-0.1.0-alpha.60-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.60/Unified-0.1.0-alpha.60-ios-unsigned.ipa",
           "size": 11360357,
           "minOSVersion": "16.4"
         },
@@ -241,7 +241,7 @@
           "version": "0.1.49",
           "date": "2026-09-08T14:30:22.885767+00:00",
           "localizedDescription": "Removed the (WA) suffix from WhatsApp chat names.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.59/Unified-0.1.0-alpha.59-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.59/Unified-0.1.0-alpha.59-ios-unsigned.ipa",
           "size": 11360358,
           "minOSVersion": "16.4"
         },
@@ -249,7 +249,7 @@
           "version": "0.1.48",
           "date": "2026-09-08T13:52:14.829686+00:00",
           "localizedDescription": "Removed the (WA) suffix from WhatsApp chat names.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.58/Unified-0.1.0-alpha.58-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.58/Unified-0.1.0-alpha.58-ios-unsigned.ipa",
           "size": 11360268,
           "minOSVersion": "16.4"
         },
@@ -257,7 +257,7 @@
           "version": "0.1.47",
           "date": "2026-09-06T21:17:08.811635Z",
           "localizedDescription": "Video now streams from the Hub instead of downloading in full first, so reels, TikToks and recorded clips start almost immediately on mobile. Fixed the desktop hover reaction bar being clipped.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.57/Unified-0.1.0-alpha.57-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.57/Unified-0.1.0-alpha.57-ios-unsigned.ipa",
           "size": 11357307,
           "minOSVersion": "16.4"
         },
@@ -265,7 +265,7 @@
           "version": "0.1.45",
           "date": "2026-09-06T20:43:14.023101Z",
           "localizedDescription": "Reply previews now resolve correctly across history boundaries and for optimistic sends.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.55/Unified-0.1.0-alpha.55-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.55/Unified-0.1.0-alpha.55-ios-unsigned.ipa",
           "size": 11358645,
           "minOSVersion": "16.4"
         },
@@ -273,7 +273,7 @@
           "version": "0.1.44",
           "date": "2026-09-06T17:22:48.451577Z",
           "localizedDescription": "Instant inbox opening from local cache. Trimmed initial sync window cuts startup delay from ~30s down to ~2s. Fixed composer input keyboard overlap and bottom navigation bar height.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.54/Unified-0.1.0-alpha.54-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.54/Unified-0.1.0-alpha.54-ios-unsigned.ipa",
           "size": 11357851,
           "minOSVersion": "16.4"
         },
@@ -281,7 +281,7 @@
           "version": "0.1.43",
           "date": "2026-09-06T16:35:55.181573Z",
           "localizedDescription": "Chats open at the newest message. History paging fills gaps in sparse cached messages. Connected account labels stay stable without changing message destinations.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.53/Unified-0.1.0-alpha.53-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.53/Unified-0.1.0-alpha.53-ios-unsigned.ipa",
           "size": 11355135,
           "minOSVersion": "16.4"
         },
@@ -289,7 +289,7 @@
           "version": "0.1.42",
           "date": "2026-09-06T07:08:53.755692Z",
           "localizedDescription": "Separate Codes and Requests tabs alongside Inbox, Archive, Low Priority, and Merged Chats. Provider-confirmed requests and verification-code-only conversations are organized automatically.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.52/Unified-0.1.0-alpha.52-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.52/Unified-0.1.0-alpha.52-ios-unsigned.ipa",
           "size": 11354942,
           "minOSVersion": "16.4"
         },
@@ -297,7 +297,7 @@
           "version": "0.1.41",
           "date": "2026-09-06T06:59:23.943653Z",
           "localizedDescription": "Videos stay paused until tapped, then open and play fullscreen. Closed chats cancel pending media downloads so new media can load sooner.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.51/Unified-0.1.0-alpha.51-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.51/Unified-0.1.0-alpha.51-ios-unsigned.ipa",
           "size": 11354232,
           "minOSVersion": "16.4"
         },
@@ -305,7 +305,7 @@
           "version": "0.1.40",
           "date": "2026-09-06T03:02:32.280344Z",
           "localizedDescription": "Fix live synchronization after idle responses and automatic recovery when the desktop history cache fills.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.50/Unified-0.1.0-alpha.50-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.50/Unified-0.1.0-alpha.50-ios-unsigned.ipa",
           "size": 11351553,
           "minOSVersion": "16.4"
         },
@@ -313,7 +313,7 @@
           "version": "0.1.39",
           "date": "2026-09-06T02:37:59.374514Z",
           "localizedDescription": "Coordinated release with automatic recovery for frozen desktop live updates and sent indicators.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.49/Unified-0.1.0-alpha.49-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.49/Unified-0.1.0-alpha.49-ios-unsigned.ipa",
           "size": 11351529,
           "minOSVersion": "16.4"
         },
@@ -321,7 +321,7 @@
           "version": "0.1.38",
           "date": "2026-09-06T02:25:47.141665Z",
           "localizedDescription": "Compact inline Instagram reels, swipe to reveal sent times, cleaner Instagram read receipts, and a centered composer icon.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.48/Unified-0.1.0-alpha.48-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.48/Unified-0.1.0-alpha.48-ios-unsigned.ipa",
           "size": 11351526,
           "minOSVersion": "16.4"
         },
@@ -329,7 +329,7 @@
           "version": "0.1.37",
           "date": "2026-09-05T19:21:17.709873Z",
           "localizedDescription": "Reliable sending: preserve pending messages through connection timeouts, retry safely, and keep attachment loading from delaying messages.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.46/Unified-0.1.0-alpha.46-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.46/Unified-0.1.0-alpha.46-ios-unsigned.ipa",
           "size": 11349636,
           "minOSVersion": "16.4"
         },
@@ -337,7 +337,7 @@
           "version": "0.1.36",
           "date": "2026-09-01T21:14:05Z",
           "localizedDescription": "Stabilizes swipe-to-archive and swipe-to-reply, and makes inline video previews substantially more compact.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.36/Unified-0.1.0-alpha.36-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.36/Unified-0.1.0-alpha.36-ios-unsigned.ipa",
           "size": 11346753,
           "minOSVersion": "16.4"
         },
@@ -345,7 +345,7 @@
           "version": "0.1.35",
           "date": "2026-09-01T20:35:28Z",
           "localizedDescription": "Preserves the private Hub pairing across SideStore updates with a validated, device-local recovery path.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.35/Unified-0.1.0-alpha.35-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.35/Unified-0.1.0-alpha.35-ios-unsigned.ipa",
           "size": 11345578,
           "minOSVersion": "16.4"
         },
@@ -353,7 +353,7 @@
           "version": "0.1.0",
           "date": "2026-09-01T19:53:48Z",
           "localizedDescription": "Improved the iOS inbox and conversation layouts, updated Unified branding, and included the latest messaging and media fixes.",
-          "downloadURL": "https://github.com/duaragha/unified-inbox-releases/releases/download/v0.1.0-alpha.34/Unified-0.1.0-alpha.34-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.34/Unified-0.1.0-alpha.34-ios-unsigned.ipa",
           "size": 11343002,
           "minOSVersion": "16.4"
         }
