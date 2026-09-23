@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.105",
+          "date": "2026-09-23T19:14:57.097573+00:00",
+          "localizedDescription": "App icon badge counts unread chats once each and excludes low-priority conversations.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.115/Unified-0.1.0-alpha.115-ios-unsigned.ipa",
+          "size": 17042233,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.104",
           "date": "2026-09-23T18:58:37.181000+00:00",
           "localizedDescription": "Unified iOS 0.1.104.",
