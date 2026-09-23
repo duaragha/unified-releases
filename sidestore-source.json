@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.107",
+          "date": "2026-09-23T20:35:52.854520+00:00",
+          "localizedDescription": "Keeps your Hub login through temporary locked-storage failures and resumes syncing automatically.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.117/Unified-0.1.0-alpha.117-ios-unsigned.ipa",
+          "size": 17048360,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.106",
           "date": "2026-09-23T20:03:18.425000+00:00",
           "localizedDescription": "Unified iOS 0.1.106.",
