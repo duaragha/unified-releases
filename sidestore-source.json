@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.102",
+          "date": "2026-09-23T18:10:44.127692+00:00",
+          "localizedDescription": "Private photos and voice notes, cleaner iMessage rows, and accurate background alerts.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.112/Unified-0.1.0-alpha.112-ios-unsigned.ipa",
+          "size": 17035366,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.101",
           "date": "2026-09-23T14:50:40.899000+00:00",
           "localizedDescription": "Unified iOS 0.1.101.",
