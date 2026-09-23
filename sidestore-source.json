@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.100",
+          "date": "2026-09-23T14:14:37.427439+00:00",
+          "localizedDescription": "Immediate pending messages, responsive compose, and safe recovery of stalled sends.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.110/Unified-0.1.0-alpha.110-ios-unsigned.ipa",
+          "size": 16558651,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.99",
           "date": "2026-09-23T13:42:12.938000+00:00",
           "localizedDescription": "Unified iOS 0.1.99. Swipe between videos in the full-screen viewer: left for the next video, right for the previous, and up or down like reels.",
