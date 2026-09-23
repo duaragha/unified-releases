@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.97",
+          "date": "2026-09-23T00:00:29.121000+00:00",
+          "localizedDescription": "Unified iOS 0.1.97. Every chat video opens in one Instagram-style full-screen viewer, and videos shared as links play inline.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.97/Unified-0.1.97-ios-unsigned.ipa",
+          "size": 16551595,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.96",
           "date": "2026-09-22T14:31:37.952000+00:00",
           "localizedDescription": "Unified iOS 0.1.96.",
