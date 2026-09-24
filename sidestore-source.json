@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.115",
+          "date": "2026-09-24T16:26:38.421000+00:00",
+          "localizedDescription": "Unified iOS 0.1.115.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.115/Unified-0.1.115-ios-unsigned.ipa",
+          "size": 17071347,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.114",
           "date": "2026-09-24T16:08:48.698000+00:00",
           "localizedDescription": "Unified iOS 0.1.114.",
