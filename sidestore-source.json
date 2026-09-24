@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.109",
+          "date": "2026-09-24T05:26:17.145849+00:00",
+          "localizedDescription": "Coordinated release with faster desktop sending and complete composer text; includes current mobile fixes.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.119/Unified-0.1.0-alpha.119-ios-unsigned.ipa",
+          "size": 17048373,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.108",
           "date": "2026-09-24T01:45:06.248000+00:00",
           "localizedDescription": "Unified iOS 0.1.108.",
