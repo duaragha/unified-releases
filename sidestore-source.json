@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.117",
+          "date": "2026-09-24T17:06:40.948000+00:00",
+          "localizedDescription": "Unified iOS 0.1.117.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.117/Unified-0.1.117-ios-unsigned.ipa",
+          "size": 17074424,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.116",
           "date": "2026-09-24T16:35:18.986434+00:00",
           "localizedDescription": "Coordinated release fixing larger desktop reels; includes the current mobile group members, mentions, reactions and read details.",
