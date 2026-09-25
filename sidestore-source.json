@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.119",
+          "date": "2026-09-25T14:18:34.005000+00:00",
+          "localizedDescription": "Unified iOS 0.1.119.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.119/Unified-0.1.119-ios-unsigned.ipa",
+          "size": 17179405,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.118",
           "date": "2026-09-24T18:12:59.066309+00:00",
           "localizedDescription": "Restore WhatsApp calling after bridge reconnects and keep call monitoring active during enabled background delivery; return background audio after calls.",
