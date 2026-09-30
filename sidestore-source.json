@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.145",
+          "date": "2026-09-30T18:45:08.967145+00:00",
+          "localizedDescription": "Aligned media previews, a separate full gallery, working photo/video viewers and reliable thumbnail recovery.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.157/Unified-0.1.0-alpha.157-ios-unsigned.ipa",
+          "size": 17252917,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.142",
           "date": "2026-09-30T04:51:43.747969+00:00",
           "localizedDescription": "Unified iOS 0.1.142.",
