@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.140",
+          "date": "2026-09-30T04:39:47.675227+00:00",
+          "localizedDescription": "Unified iOS 0.1.140.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.140/Unified-0.1.140-ios-unsigned.ipa",
+          "size": 17240472,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.139",
           "date": "2026-09-30T00:42:45.753424+00:00",
           "localizedDescription": "Unified iOS 0.1.139.",
