@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.146",
+          "date": "2026-09-30T21:07:46.039986+00:00",
+          "localizedDescription": "Browse photos and videos together, jump to the original message, and open full-size profile photos.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.158/Unified-0.1.0-alpha.158-ios-unsigned.ipa",
+          "size": 17258352,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.145",
           "date": "2026-09-30T18:45:08.967145+00:00",
           "localizedDescription": "Aligned media previews, a separate full gallery, working photo/video viewers and reliable thumbnail recovery.",
