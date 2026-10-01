@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.147",
+          "date": "2026-10-01T00:23:39.875902+00:00",
+          "localizedDescription": "Browse every photo and video in your chat history without loading older messages. Choose a month directly and jump from any photo or video to its original message.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.159/Unified-0.1.0-alpha.159-ios-unsigned.ipa",
+          "size": 17272604,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.146",
           "date": "2026-09-30T21:07:46.039986+00:00",
           "localizedDescription": "Browse photos and videos together, jump to the original message, and open full-size profile photos.",
