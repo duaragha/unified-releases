@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.148",
+          "date": "2026-10-02T15:07:08.140194+00:00",
+          "localizedDescription": "Full-screen photos get the same reply bar as videos: reply to the sender or react without leaving the photo. Videos now close when pulled down from anywhere on screen, including the top.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.148/Unified-0.1.148-ios-unsigned.ipa",
+          "size": 17270883,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.147",
           "date": "2026-10-01T00:23:39.875902+00:00",
           "localizedDescription": "Browse every photo and video in your chat history without loading older messages. Choose a month directly and jump from any photo or video to its original message.",
