@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.154",
+          "date": "2026-10-03T17:28:09.087000+00:00",
+          "localizedDescription": "Unified iOS 0.1.154.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.154/Unified-0.1.154-ios-unsigned.ipa",
+          "size": 17285369,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.153",
           "date": "2026-10-03T01:24:44.954000+00:00",
           "localizedDescription": "Unified iOS 0.1.153.",
