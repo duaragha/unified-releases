@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.173",
+          "date": "2026-10-09T21:54:24.966000+00:00",
+          "localizedDescription": "Sent photo previews and media download reliability improvements.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.189/Unified-0.1.0-alpha.189-ios-unsigned.ipa",
+          "size": 17425791,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.172",
           "date": "2026-10-09T20:16:52.314000+00:00",
           "localizedDescription": "Unified iOS 0.1.172.",
