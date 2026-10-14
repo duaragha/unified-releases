@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.179",
+          "date": "2026-10-14T17:30:23.528000+00:00",
+          "localizedDescription": "Forward Instagram posts and Reels as the original native share instead of uploading their preview video. Includes HDR photo preparation and the iOS background session.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.195/Unified-0.1.0-alpha.195-ios-unsigned.ipa",
+          "size": 17548558,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.178",
           "date": "2026-10-14T16:42:14.447000+00:00",
           "localizedDescription": "Fix HDR/HEIC photo preparation in self chats, notes and all other chats. Release native photo buffers and show readable preparation errors.",
