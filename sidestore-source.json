@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.176",
+          "date": "2026-10-13T23:52:50.803000+00:00",
+          "localizedDescription": "Instagram Reel cards stay playable without repeating their raw URL below the video.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.192/Unified-0.1.0-alpha.192-ios-unsigned.ipa",
+          "size": 17427504,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.174",
           "date": "2026-10-09T22:28:17.544000+00:00",
           "localizedDescription": "Messaging reliability, source-specific message info and formatting previews.",
