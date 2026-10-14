@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.177",
+          "date": "2026-10-14T14:29:48.548000+00:00",
+          "localizedDescription": "Group mentions no longer crash when typing @. Reply previews and message actions are opaque, and forwarding downloads are capped at 32 MB.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.193/Unified-0.1.0-alpha.193-ios-unsigned.ipa",
+          "size": 17427683,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.176",
           "date": "2026-10-13T23:52:50.803000+00:00",
           "localizedDescription": "Instagram Reel cards stay playable without repeating their raw URL below the video.",
