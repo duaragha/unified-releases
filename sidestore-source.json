@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.180",
+          "date": "2026-10-15T14:00:19.291000+00:00",
+          "localizedDescription": "TikToks shared on TikTok now show exactly like an Instagram reel: the video on its portrait card under the poster, with no caption, hashtags or link.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.196/Unified-0.1.0-alpha.196-ios-unsigned.ipa",
+          "size": 17548632,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.179",
           "date": "2026-10-14T17:30:23.528000+00:00",
           "localizedDescription": "Forward Instagram posts and Reels as the original native share instead of uploading their preview video. Includes HDR photo preparation and the iOS background session.",
