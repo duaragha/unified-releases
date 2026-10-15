@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.181",
+          "date": "2026-10-15T14:13:56.666000+00:00",
+          "localizedDescription": "Emoji-only messages now show large without a bubble, like iMessage and WhatsApp. Includes TikTok shares drawn as Instagram reel cards.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.197/Unified-0.1.0-alpha.197-ios-unsigned.ipa",
+          "size": 17550072,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.180",
           "date": "2026-10-15T14:00:19.291000+00:00",
           "localizedDescription": "TikToks shared on TikTok now show exactly like an Instagram reel: the video on its portrait card under the poster, with no caption, hashtags or link.",
