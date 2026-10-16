@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.182",
+          "date": "2026-10-15T22:13:00.742000+00:00",
+          "localizedDescription": "Far less battery in the background: Unified waits on the Hub instead of checking every second. Coming back after a long time away now counts the messages you missed as it catches up.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.198/Unified-0.1.0-alpha.198-ios-unsigned.ipa",
+          "size": 17554677,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.181",
           "date": "2026-10-15T14:13:56.666000+00:00",
           "localizedDescription": "Emoji-only messages now show large without a bubble, like iMessage and WhatsApp. Includes TikTok shares drawn as Instagram reel cards.",
