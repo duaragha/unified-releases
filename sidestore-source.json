@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.187",
+          "date": "2026-10-17T16:09:38.808000+00:00",
+          "localizedDescription": "Attachments you were sending resume on their own after the app restarts, without picking the file again.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.203/Unified-0.1.0-alpha.203-ios-unsigned.ipa",
+          "size": 17643178,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.186",
           "date": "2026-10-17T15:47:36.218000+00:00",
           "localizedDescription": "Voice notes up to 15 minutes, instant typing, files up to 2 GB that resume after a restart, and album forwards that finish what they started.",
