@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.184",
+          "date": "2026-10-17T06:34:46.661000+00:00",
+          "localizedDescription": "Voice transcription now works privately on your Hub. See incoming typing, accurate sent/delivered/seen labels, forward actual files and send attachments up to 100 MiB where the network allows it.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.200/Unified-0.1.0-alpha.200-ios-unsigned.ipa",
+          "size": 17594637,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.183",
           "date": "2026-10-17T06:15:03.939000+00:00",
           "localizedDescription": "Improved photo zoom and swiping, consistent photo layouts, remembered video playback speeds, and Wi-Fi-only video preloading with bounded caches.",
