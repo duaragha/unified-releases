@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.186",
+          "date": "2026-10-17T15:47:36.218000+00:00",
+          "localizedDescription": "Voice notes up to 15 minutes, instant typing, files up to 2 GB that resume after a restart, and album forwards that finish what they started.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.202/Unified-0.1.0-alpha.202-ios-unsigned.ipa",
+          "size": 17626988,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.185",
           "date": "2026-10-17T07:24:48.782000+00:00",
           "localizedDescription": "Instagram photo posts pasted as links show as Instagram post cards, long carousels load every slide, and timed-out messages say Disappeared.",
