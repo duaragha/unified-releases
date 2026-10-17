@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.183",
+          "date": "2026-10-17T06:15:03.939000+00:00",
+          "localizedDescription": "Improved photo zoom and swiping, consistent photo layouts, remembered video playback speeds, and Wi-Fi-only video preloading with bounded caches.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.199/Unified-0.1.0-alpha.199-ios-unsigned.ipa",
+          "size": 17586367,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.182",
           "date": "2026-10-15T22:13:00.742000+00:00",
           "localizedDescription": "Far less battery in the background: Unified waits on the Hub instead of checking every second. Coming back after a long time away now counts the messages you missed as it catches up.",
