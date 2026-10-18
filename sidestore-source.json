@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.188",
+          "date": "2026-10-18T03:06:44.325000+00:00",
+          "localizedDescription": "Messages someone sends while a new chat is still being set up are no longer lost.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.204/Unified-0.1.0-alpha.204-ios-unsigned.ipa",
+          "size": 17643178,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.187",
           "date": "2026-10-17T16:09:38.808000+00:00",
           "localizedDescription": "Attachments you were sending resume on their own after the app restarts, without picking the file again.",
