@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.190",
+          "date": "2026-10-19T02:18:53.596000+00:00",
+          "localizedDescription": "The keyboard closes after sending a photo or reel reply, with a smooth native transition back to browsing.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.206/Unified-0.1.0-alpha.206-ios-unsigned.ipa",
+          "size": 17649379,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.189",
           "date": "2026-10-19T01:56:50.869000+00:00",
           "localizedDescription": "Select multiple photos and videos, review or remove individual items, and send them in order with one caption.",
