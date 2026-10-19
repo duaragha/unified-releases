@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.192",
+          "date": "2026-10-19T03:36:24.201000+00:00",
+          "localizedDescription": "Voice notes now ask Private or Fast: Private stays on your Hub, Fast transcribes in a second or two.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.208/Unified-0.1.0-alpha.208-ios-unsigned.ipa",
+          "size": 17650221,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.191",
           "date": "2026-10-19T03:00:58.875000+00:00",
           "localizedDescription": "Every video now shows a thumbnail before you play it, TikTok shared comments appear as cards, and a sent reply no longer shows twice.",
