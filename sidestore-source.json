@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.189",
+          "date": "2026-10-19T01:56:50.869000+00:00",
+          "localizedDescription": "Select multiple photos and videos, review or remove individual items, and send them in order with one caption.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.205/Unified-0.1.0-alpha.205-ios-unsigned.ipa",
+          "size": 17646647,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.188",
           "date": "2026-10-18T03:06:44.325000+00:00",
           "localizedDescription": "Messages someone sends while a new chat is still being set up are no longer lost.",
