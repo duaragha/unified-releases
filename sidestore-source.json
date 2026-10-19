@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.193",
+          "date": "2026-10-19T15:08:41.539000+00:00",
+          "localizedDescription": "Replies to reels and photos show a small preview of what they answer, and chat timestamps sit above their message again.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.209/Unified-0.1.0-alpha.209-ios-unsigned.ipa",
+          "size": 17650246,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.192",
           "date": "2026-10-19T03:36:24.201000+00:00",
           "localizedDescription": "Voice notes now ask Private or Fast: Private stays on your Hub, Fast transcribes in a second or two.",
