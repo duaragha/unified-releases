@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.194",
+          "date": "2026-10-27T03:39:55.609Z",
+          "localizedDescription": "Alerts stack per chat, clear once read and open the right chat even from a cold start. Holding a chat gives a tick. A network that signs out alerts you, with Reconnect on computer. Drafts, recent photos and search work offline, and the app tells you when an update is ready.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.214/Unified-0.1.0-alpha.214-ios-unsigned.ipa",
+          "size": 17712672,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.193",
           "date": "2026-10-19T15:08:41.539000+00:00",
           "localizedDescription": "Replies to reels and photos show a small preview of what they answer, and chat timestamps sit above their message again.",
