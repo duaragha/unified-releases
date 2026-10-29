@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.197",
+          "date": "2026-10-29T18:45:35.568Z",
+          "localizedDescription": "Edit a message in the regular composer: its text goes in the field and the send button saves it.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.217/Unified-0.1.0-alpha.217-ios-unsigned.ipa",
+          "size": 17724811,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.196",
           "date": "2026-10-29T14:22:02.065Z",
           "localizedDescription": "Photos and videos step together in the full-screen viewer: open either and swipe through both.",
