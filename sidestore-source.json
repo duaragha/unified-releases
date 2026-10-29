@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.198",
+          "date": "2026-10-29T19:05:53.416Z",
+          "localizedDescription": "No more empty gap above the composer after sending a message.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.218/Unified-0.1.0-alpha.218-ios-unsigned.ipa",
+          "size": 17724996,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.197",
           "date": "2026-10-29T18:45:35.568Z",
           "localizedDescription": "Edit a message in the regular composer: its text goes in the field and the send button saves it.",
