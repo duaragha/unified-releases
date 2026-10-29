@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.196",
+          "date": "2026-10-29T14:22:02.065Z",
+          "localizedDescription": "Photos and videos step together in the full-screen viewer: open either and swipe through both.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.216/Unified-0.1.0-alpha.216-ios-unsigned.ipa",
+          "size": 17725549,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.195",
           "date": "2026-10-29T04:39:28.415Z",
           "localizedDescription": "Editing a message works again: the edit sheet rises above the keyboard. Tap a reply's quote to jump to the message it answers.",
