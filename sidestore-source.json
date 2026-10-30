@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.200",
+          "date": "2026-10-30T20:04:08.380Z",
+          "localizedDescription": "Far less battery in the background: wakes are paced, checks slow down overnight and in Low Power Mode, and the inbox stays idle while the phone is locked.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.221/Unified-0.1.0-alpha.221-ios-unsigned.ipa",
+          "size": 17736916,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.198",
           "date": "2026-10-29T19:05:53.416Z",
           "localizedDescription": "No more empty gap above the composer after sending a message.",
