@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.201",
+          "date": "2026-11-02T20:33:13.000Z",
+          "localizedDescription": "Better battery when your Hub is out of reach: a locked phone now backs off to once a minute by day and every five minutes overnight instead of retrying every second or two.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.222/Unified-0.1.0-alpha.222-ios-unsigned.ipa",
+          "size": 17736948,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.200",
           "date": "2026-10-30T20:04:08.380Z",
           "localizedDescription": "Far less battery in the background: wakes are paced, checks slow down overnight and in Low Power Mode, and the inbox stays idle while the phone is locked.",
