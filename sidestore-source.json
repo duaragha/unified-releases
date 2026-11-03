@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.202",
+          "date": "2026-11-03T18:19:33.000Z",
+          "localizedDescription": "Choose photos and videos from Atrium: the attach panel now has Internal Storage and Atrium. Your Hub copies the original in, so a pick never downloads to your phone first.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.224/Unified-0.1.0-alpha.224-ios-unsigned.ipa",
+          "size": 17745222,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.201",
           "date": "2026-11-02T20:33:13.000Z",
           "localizedDescription": "Better battery when your Hub is out of reach: a locked phone now backs off to once a minute by day and every five minutes overnight instead of retrying every second or two.",
