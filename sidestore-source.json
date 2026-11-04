@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.203",
+          "date": "2026-11-04T00:01:27.000Z",
+          "localizedDescription": "Edit a photo note's caption, tap a picked photo to see it full size before sending, the keyboard hides as soon as you go back, a cleaner merge suggestion, and two-per-row filter and mailbox sheets.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.225/Unified-0.1.0-alpha.225-ios-unsigned.ipa",
+          "size": 17747751,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.202",
           "date": "2026-11-03T18:19:33.000Z",
           "localizedDescription": "Choose photos and videos from Atrium: the attach panel now has Internal Storage and Atrium. Your Hub copies the original in, so a pick never downloads to your phone first.",
