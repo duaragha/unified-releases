@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.204",
+          "date": "2026-11-05T15:33:05.749000+00:00",
+          "localizedDescription": "Unified iOS 0.1.204.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.204/Unified-0.1.204-ios-unsigned.ipa",
+          "size": 18009650,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.203",
           "date": "2026-11-04T00:01:27.000Z",
           "localizedDescription": "Edit a photo note's caption, tap a picked photo to see it full size before sending, the keyboard hides as soon as you go back, a cleaner merge suggestion, and two-per-row filter and mailbox sheets.",
