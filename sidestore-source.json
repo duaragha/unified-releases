@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.205",
+          "date": "2026-11-09T16:31:02.575000+00:00",
+          "localizedDescription": "Unified iOS 0.1.205.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.205/Unified-0.1.205-ios-unsigned.ipa",
+          "size": 18017602,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.204",
           "date": "2026-11-05T18:45:20.000Z",
           "localizedDescription": "Encrypted on-phone data, app lock and device sign-out; honest send states with Retry; recovered history with a start-of-history marker; HEIC photo fixes; and device status.",
