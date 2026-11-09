@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.207",
+          "date": "2026-11-09T19:55:21.000Z",
+          "localizedDescription": "Deleted chats are erased from your Hub after 7 days, with Recently deleted to restore them; real voice-note waveforms.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.229/Unified-0.1.0-alpha.229-ios-unsigned.ipa",
+          "size": 18026346,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.206",
           "date": "2026-11-09T19:38:47.000Z",
           "localizedDescription": "Voice-note transcriptions keep going when you leave the chat, show on every device, and are kept for 3 days.",
