@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.215",
+          "date": "2026-11-11T19:43:57.000Z",
+          "localizedDescription": "\"Is typing\" now sits beside the chat's name, on the same line. The line under it stays the last message.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.238/Unified-0.1.0-alpha.238-ios-unsigned.ipa",
+          "size": 18028686,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.214",
           "date": "2026-11-11T19:15:48.000Z",
           "localizedDescription": "\"Is typing\" now shows the name you gave the chat.",
