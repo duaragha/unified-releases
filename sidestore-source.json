@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.212",
+          "date": "2026-11-11T18:00:58.000Z",
+          "localizedDescription": "Replying to a message in a merged chat now keeps the chat on that network.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.235/Unified-0.1.0-alpha.235-ios-unsigned.ipa",
+          "size": 18028410,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.211",
           "date": "2026-11-11T17:20:25.000Z",
           "localizedDescription": "No changes on the iPhone in this build. It ships with the desktop fixes (Instagram logo, check marks on chat rows, clearer reply quotes) so both stay on the same release.",
