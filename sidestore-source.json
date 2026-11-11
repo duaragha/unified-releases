@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.210",
+          "date": "2026-11-11T16:58:30.000Z",
+          "localizedDescription": "No changes on the iPhone in this build. It ships with the desktop app's new look so both stay on the same release.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.233/Unified-0.1.0-alpha.233-ios-unsigned.ipa",
+          "size": 18027760,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.209",
           "date": "2026-11-11T04:39:08.000Z",
           "localizedDescription": "Telegram topics now float over the conversation without a solid backing. Long topic names stay compact and readable.",
