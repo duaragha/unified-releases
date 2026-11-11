@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.209",
+          "date": "2026-11-11T04:39:08.000Z",
+          "localizedDescription": "Telegram topics now float over the conversation without a solid backing. Long topic names stay compact and readable.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.232/Unified-0.1.0-alpha.232-ios-unsigned.ipa",
+          "size": 18027761,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.208",
           "date": "2026-11-11T00:19:45.000Z",
           "localizedDescription": "The reply preview now sits flush against the typing bar.",
