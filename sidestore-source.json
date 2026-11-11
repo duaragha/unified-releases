@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.214",
+          "date": "2026-11-11T19:15:48.000Z",
+          "localizedDescription": "\"Is typing\" now shows the name you gave the chat.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.237/Unified-0.1.0-alpha.237-ios-unsigned.ipa",
+          "size": 18028594,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.213",
           "date": "2026-11-11T18:51:13.000Z",
           "localizedDescription": "No changes on the iPhone in this build. It ships with the desktop fix for long messages drawing on top of each other so both stay on the same release.",
