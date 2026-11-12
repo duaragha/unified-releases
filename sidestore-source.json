@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.216",
+          "date": "2026-11-12T02:17:03.565000+00:00",
+          "localizedDescription": "Unified iOS 0.1.216.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.216/Unified-0.1.216-ios-unsigned.ipa",
+          "size": 18510393,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.215",
           "date": "2026-11-11T19:43:57.000Z",
           "localizedDescription": "\"Is typing\" now sits beside the chat's name, on the same line. The line under it stays the last message.",
