@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.220",
+          "date": "2026-11-13T16:00:19.000Z",
+          "localizedDescription": "The Serena Telegram chat opens on Lead by default. All or another thread you choose stays selected for that app session. Sends and read marks follow the selected thread.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.243/Unified-0.1.0-alpha.243-ios-unsigned.ipa",
+          "size": 18512824,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.217",
           "date": "2026-11-12T22:08:59.000Z",
           "localizedDescription": "Telegram forum topics sit in a column between the chat list and conversation on desktop. On iPhone and narrow windows, a compact Topics control opens a vertical list. Topic colors, unread badges and selection are preserved.",
