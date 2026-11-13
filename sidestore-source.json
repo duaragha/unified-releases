@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.221",
+          "date": "2026-11-13T19:08:45.000Z",
+          "localizedDescription": "Merged chats now follow the newest incoming network after an older reply. An old TikTok reply no longer keeps new messages on TikTok after someone writes on Instagram. Explicit network choices and active quoted replies keep their source.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.244/Unified-0.1.0-alpha.244-ios-unsigned.ipa",
+          "size": 18512624,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.220",
           "date": "2026-11-13T16:00:19.000Z",
           "localizedDescription": "The Serena Telegram chat opens on Lead by default. All or another thread you choose stays selected for that app session. Sends and read marks follow the selected thread.",
