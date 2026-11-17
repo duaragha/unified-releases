@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.222",
+          "date": "2026-11-17T18:27:58.000Z",
+          "localizedDescription": "Telegram topics show their whole history: a quiet topic loads its own messages at once, and scrolling up pages back through that topic to its first message.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.245/Unified-0.1.0-alpha.245-ios-unsigned.ipa",
+          "size": 18520284,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.221",
           "date": "2026-11-13T19:08:45.000Z",
           "localizedDescription": "Merged chats now follow the newest incoming network after an older reply. An old TikTok reply no longer keeps new messages on TikTok after someone writes on Instagram. Explicit network choices and active quoted replies keep their source.",
