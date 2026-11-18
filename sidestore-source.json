@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.223",
+          "date": "2026-11-18T02:46:16.000Z",
+          "localizedDescription": "Videos start faster: a busy moment no longer stalls playback for seconds, and saving photos no longer rescans your offline cache.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.246/Unified-0.1.0-alpha.246-ios-unsigned.ipa",
+          "size": 18521807,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.222",
           "date": "2026-11-17T18:27:58.000Z",
           "localizedDescription": "Telegram topics show their whole history: a quiet topic loads its own messages at once, and scrolling up pages back through that topic to its first message.",
