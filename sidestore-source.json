@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.224",
+          "date": "2026-11-18T19:54:25.000Z",
+          "localizedDescription": "Long text messages make better use of the conversation width. Short messages, photos and voice notes keep their compact layout.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.247/Unified-0.1.0-alpha.247-ios-unsigned.ipa",
+          "size": 18521832,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.223",
           "date": "2026-11-18T02:46:16.000Z",
           "localizedDescription": "Videos start faster: a busy moment no longer stalls playback for seconds, and saving photos no longer rescans your offline cache.",
