@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.226",
+          "date": "2026-11-19T16:31:58.000Z",
+          "localizedDescription": "iMessage links show once in the chat. iPhone session refresh keeps a valid replacement token through shutdown and uses the latest saved credentials.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.249/Unified-0.1.0-alpha.249-ios-unsigned.ipa",
+          "size": 18531773,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.225",
           "date": "2026-11-19T15:24:55.000Z",
           "localizedDescription": "Far less battery in the background: a locked phone is woken only for messages, reactions, sign-outs and calls you would be alerted to, not for every change on your account.",
