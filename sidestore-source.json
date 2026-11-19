@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.227",
+          "date": "2026-11-19T17:12:56.000Z",
+          "localizedDescription": "iPhone keeps its refreshed sign-in when writing the recovery copy fails. The sign-out message accurately describes old-token reuse.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.250/Unified-0.1.0-alpha.250-ios-unsigned.ipa",
+          "size": 18532472,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.226",
           "date": "2026-11-19T16:31:58.000Z",
           "localizedDescription": "iMessage links show once in the chat. iPhone session refresh keeps a valid replacement token through shutdown and uses the latest saved credentials.",
