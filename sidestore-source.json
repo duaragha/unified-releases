@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.228",
+          "date": "2026-11-20T21:08:49.000Z",
+          "localizedDescription": "Tap the waveform next to the mic to dictate into your draft. Edit the words before sending. The mic still records voice messages.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.251/Unified-0.1.0-alpha.251-ios-unsigned.ipa",
+          "size": 18541822,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.227",
           "date": "2026-11-19T17:12:56.000Z",
           "localizedDescription": "iPhone keeps its refreshed sign-in when writing the recovery copy fails. The sign-out message accurately describes old-token reuse.",
