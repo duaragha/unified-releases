@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.229",
+          "date": "2026-11-22T06:28:53.000Z",
+          "localizedDescription": "Unified can recover interrupted session renewals. Once your owner passkey is set up, you can relink directly from the iPhone pairing screen.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.252/Unified-0.1.0-alpha.252-ios-unsigned.ipa",
+          "size": 18545958,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.228",
           "date": "2026-11-20T21:08:49.000Z",
           "localizedDescription": "Tap the waveform next to the mic to dictate into your draft. Edit the words before sending. The mic still records voice messages.",
