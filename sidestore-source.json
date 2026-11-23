@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.230",
+          "date": "2026-11-23T22:30:49.000Z",
+          "localizedDescription": "TikTok Likes now appear as hearts, and videos start at your saved playback speed.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/v0.1.0-alpha.253/Unified-0.1.0-alpha.253-ios-unsigned.ipa",
+          "size": 18548221,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.229",
           "date": "2026-11-22T06:28:53.000Z",
           "localizedDescription": "Unified can recover interrupted session renewals. Once your owner passkey is set up, you can relink directly from the iPhone pairing screen.",
