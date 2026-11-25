@@ -22,6 +22,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.231",
+          "date": "2026-11-25T15:32:33.000Z",
+          "localizedDescription": "Videos keep playing: the next one starts on its own, a stalled one picks up by itself, reacting or replying no longer stops it, and 2\u00d7 sound starts clean.",
+          "downloadURL": "https://github.com/duaragha/unified-releases/releases/download/mobile-v0.1.231/Unified-0.1.231-ios-unsigned.ipa",
+          "size": 18550468,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.230",
           "date": "2026-11-23T22:30:49.000Z",
           "localizedDescription": "TikTok Likes now appear as hearts, and videos start at your saved playback speed.",
